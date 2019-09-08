@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0_172">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.jboss.ide.eclipse.as.core.server.runtime.runtimeTarget/WildFly 10.x Runtime">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="D:/University/2019/Jars/bluesky-1.0.10.jar"/>
+	<classpathentry kind="lib" path="D:/University/2019/Jars/c3p0-0.9.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/University/2019/Jars/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="D:/University/2019/Jars/hibernate-c3p0-4.3.8.Final.jar"/>
+	<classpathentry kind="lib" path="D:/University/2019/Jars/hibernate-commons-annotations-4.0.5.Final.jar"/>
+	<classpathentry kind="lib" path="D:/University/2019/Jars/hibernate-core-4.3.8.Final.jar"/>
+	<classpathentry kind="lib" path="D:/University/2019/Jars/hibernate-jpa-2.1-api-1.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="D:/University/2019/Jars/jsp-api-2.1-6.0.2.jar"/>
+	<classpathentry kind="lib" path="D:/University/2019/Jars/jstl-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/University/2019/Jars/log4j-api-2.0-beta4.jar"/>
+	<classpathentry kind="lib" path="D:/University/2019/Jars/primefaces-5.1.jar"/>
+	<classpathentry kind="lib" path="D:/University/2019/Jars/servlet-api-2.5-6.0.2.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/employeebackend"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
